@@ -34,7 +34,8 @@
   <h3 align="center">esAI.app</h3>
 
   <p align="center">
-    project_description
+    esAI.app memastikan semua yang kamu tulis efektif dan bebas dari kesalahan sesuai dengan tata Bahasa Indonesia menggunakan Kecerdasan Buatan.
+Dikembangkan oleh tim Harta Tahta Data❤️
     <br />
     <a href="https://github.com/Harta-Tahta-Data"><strong>Explore the docs »</strong></a>
     <br />

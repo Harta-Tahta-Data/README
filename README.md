@@ -102,8 +102,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Research Papers and Journals
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
 1. 
 2. 
 3. 
@@ -114,8 +112,6 @@ Contributions are what make the open source community such an amazing place to b
 
 <!-- CONTRIBUTING -->
 ## Dataset
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. 
 2. 

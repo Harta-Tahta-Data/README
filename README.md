@@ -125,7 +125,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Kevin Ahmad Faisal - [@twitter_handle](https://twitter.com/twitter_handle) - kevinahmad.f@gmail.com
+Nathanya Queby Satriani - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Andika Ridho - [@twitter_handle](https://twitter.com/twitter_handle) - email
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 

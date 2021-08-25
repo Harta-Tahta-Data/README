@@ -102,8 +102,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Research Papers and Journals
 
-1. 
-2. 
+1. [Automatic Grammar Checking System For Indonesian](https://ieeexplore.ieee.org/abstract/document/8751591)
+2. [Spelling Corrector](http://norvig.com/spell-correct.html)
 3. 
 4. 
 5. 
@@ -113,9 +113,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- CONTRIBUTING -->
 ## Dataset
 
-1. 
-2. 
-3. 
+1. [idn-tagged-corpus](https://github.com/famrashel/idn-tagged-corpus)
+2. [FrequencyWords](https://github.com/hermitdave/FrequencyWords/blob/master/content/2018/id/id_50k.txt)
+3. [Corpus.crp](https://github.com/pebbie/pebahasa/blob/master/resource/Corpus.crp)
 4. 
 5. 
 
@@ -129,7 +129,7 @@ Kevin Ahmad Faisal - [@twitter_handle](https://twitter.com/twitter_handle) - kev
 Nathanya Queby Satriani - [LinkedIn](https://www.linkedin.com/in/queby/) - nathanyaqueby21@gmail.com<br/>
 Andika Ridho - [@twitter_handle](https://twitter.com/twitter_handle) - email<br/>
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/Harta-Tahta-Data](https://github.com/Harta-Tahta-Data)
 
 
 

@@ -60,7 +60,6 @@ Dikembangkan oleh tim Harta Tahta Data❤️
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Research Papers and Journals</a></li>
     <li><a href="#Dataset">Dataset</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -83,15 +82,6 @@ this project was developed within 10 days to complete the AIC COMPFEST 13 Hackat
 * [ReactJS](https://reactjs.org/)
 * [Chakra UI](https://chakra-ui.com/)
 
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 
 

@@ -73,7 +73,7 @@ Dikembangkan oleh tim Harta Tahta Data❤️
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-this project was created within 10 days to complete the AIC COMPFEST 13 Hackathon.
+this project was developed within 10 days to complete the AIC COMPFEST 13 Hackathon.
 
 
 ### Built With

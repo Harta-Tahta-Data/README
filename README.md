@@ -90,9 +90,7 @@ this project was developed within 10 days to complete the AIC COMPFEST 13 Hackat
 
 1. [Automatic Grammar Checking System For Indonesian](https://ieeexplore.ieee.org/abstract/document/8751591)
 2. [Spelling Corrector](http://norvig.com/spell-correct.html)
-3. 
-4. 
-5. 
+3. [POS Tagging Using RNN](https://towardsdatascience.com/pos-tagging-using-rnn-7f08a522f849)
 
 
 
@@ -102,8 +100,6 @@ this project was developed within 10 days to complete the AIC COMPFEST 13 Hackat
 1. [idn-tagged-corpus](https://github.com/famrashel/idn-tagged-corpus)
 2. [FrequencyWords](https://github.com/hermitdave/FrequencyWords/blob/master/content/2018/id/id_50k.txt)
 3. [Corpus.crp](https://github.com/pebbie/pebahasa/blob/master/resource/Corpus.crp)
-4. 
-5. 
 
 
 
@@ -115,7 +111,7 @@ Kevin Ahmad Faisal - [Linkedin](https://www.linkedin.com/in/kevin-ahmad-faisal-1
 Nathanya Queby Satriani - [LinkedIn](https://www.linkedin.com/in/queby/) - nathanyaqueby21@gmail.com<br/>
 Andika Ridho - [@twitter_handle](https://twitter.com/twitter_handle) - email<br/>
 
-Project Link: [https://github.com/Harta-Tahta-Data](https://github.com/Harta-Tahta-Data)
+Project Link: [esAI.app](https://www.esai.app/)
 
 
 

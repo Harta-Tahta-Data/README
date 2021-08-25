@@ -115,15 +115,6 @@ Project Link: [esAI.app](https://www.esai.app/)
 
 
 
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
-
-
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->

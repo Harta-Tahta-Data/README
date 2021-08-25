@@ -125,7 +125,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- CONTACT -->
 ## Contact
 
-Kevin Ahmad Faisal - [likedin](https://www.linkedin.com/in/kevin-ahmad-faisal-1b08a0152/) - kevinahmad.f@gmail.com<br/>
+Kevin Ahmad Faisal - [Linkedin](https://www.linkedin.com/in/kevin-ahmad-faisal-1b08a0152/) - kevinahmad.f@gmail.com<br/>
 Nathanya Queby Satriani - [LinkedIn](https://www.linkedin.com/in/queby/) - nathanyaqueby21@gmail.com<br/>
 Andika Ridho - [@twitter_handle](https://twitter.com/twitter_handle) - email<br/>
 

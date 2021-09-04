@@ -72,12 +72,13 @@ Dikembangkan oleh tim Harta Tahta Data❤️
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-this project was developed within 10 days to complete the AIC COMPFEST 13 Hackathon.
+This project was developed within 10 days to complete the AIC COMPFEST 13 Hackathon.
 
 
 ### Built With
 
 * [Tensorflow](https://www.tensorflow.org/)
+* [Keras](https://keras.io/)
 * [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 * [ReactJS](https://reactjs.org/)
 * [Chakra UI](https://chakra-ui.com/)
@@ -100,6 +101,8 @@ this project was developed within 10 days to complete the AIC COMPFEST 13 Hackat
 1. [idn-tagged-corpus](https://github.com/famrashel/idn-tagged-corpus)
 2. [FrequencyWords](https://github.com/hermitdave/FrequencyWords/blob/master/content/2018/id/id_50k.txt)
 3. [Corpus.crp](https://github.com/pebbie/pebahasa/blob/master/resource/Corpus.crp)
+4. [combined_slang_words](https://github.com/louisowen6/NLP_bahasa_resources/blob/master/combined_slang_words.txt)
+5. [KBBI entries](https://kbbi.vercel.app/)
 
 
 
